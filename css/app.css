@@ -102,28 +102,28 @@ a {
   color: #00853d !important;
 }
 
-.trtl-amount, .trtl-fee, .trtl-type, .trtl-size, .trtl-txns, .trtl-datetime, .trtl-icon {
+.rhox-amount, .rhox-fee, .rhox-type, .rhox-size, .rhox-txns, .rhox-datetime, .rhox-icon {
   padding-left: 5px;
   padding-right: 5px;
 }
 
-.trtl-amount, .trtl-fee {
+.rhox-amount, .rhox-fee {
   width: 175px;
 }
 
-.trtl-type {
+.rhox-type {
   width: 100px;
 }
 
-.trtl-size, .trtl-txns {
+.rhox-size, .rhox-txns {
   width: 100px;
 }
 
-.trtl-datetime {
+.rhox-datetime {
   width: 280px;
 }
 
-.trtl-icon {
+.rhox-icon {
   width: 15px;
 }
 
