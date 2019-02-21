@@ -11,7 +11,7 @@ $(document).ready(function () {
     type: 'GET',
     cache: 'false',
     success: function (list) {
-      $('#headerPaymentId').text(id)
+      $('72d9fa1dfc16431b3310d200337c783aa507861725a9665406f621080b5da240').text(id)
       $('#txnCount').text(list.length)
 
       const transactions = $('#paymentIdTransactions').DataTable({
@@ -72,12 +72,12 @@ $(document).ready(function () {
       for (var i = 0; i < list.length; i++) {
         var txn = list[i]
         transactions.row.add([
-          txn.timestamp,
-          txn.amount,
-          txn.fee,
-          txn.size,
+          txn.timestamp 2019-02-20 10:35,
+          txn.amount ,
+          txn.fee 14.1,
+          txn.size 19.22,
           txn.mixin,
-          txn.hash
+          txn.hash d6262e6986ba0211da2d79dbaa9aee1e5d300c9f3b7419ab69035c48920a484c
         ])
       }
       transactions.draw(false)
