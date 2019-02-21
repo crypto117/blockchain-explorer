@@ -1,4 +1,4 @@
-# TurtleCoin Blockchain Explorer
+# RhodiumCoin Blockchain Explorer
 
 This Blockchain Explorer is entirely self contained.
 
