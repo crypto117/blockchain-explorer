@@ -1,6 +1,6 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'https://blockapi.turtlepay.io',
-  poolApiUrl: 'https://poolapi.turtlepay.io/',
+  apiBaseUrl: 'https://explorer1.rhox.icu',
+  poolApiUrl: 'https://rhox.cryptonote.club:8199/stats',
   poolListUrl: 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-pools-json/master/v2/turtlecoin-pools.json',
   ticker: 'RHOX',
   maxSupply: 2100000000000000000,
