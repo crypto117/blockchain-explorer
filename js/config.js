@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: '207.154.234.178:8003',
+  apiBaseUrl: 'XXXXXXupdate!!!',
   poolApiUrl: 'https://rhox.cryptonote.club:8199/stats',
   poolListUrl: 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-pools-json/master/v2/turtlecoin-pools.json',
   ticker: 'RHOX',
